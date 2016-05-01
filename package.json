@@ -1,0 +1,32 @@
+{
+  "name": "hussain-starter",
+  "version": "0.0.1",
+  "description": "Hussain starter kit (gulp, sass, webpack, react, lodash)",
+  "main": "gulpfile.js",
+  "author": {
+    "name": "Hussain Abbas",
+    "email": "howdy@hussainabbas.com",
+    "url": "https://github.com/superhussain"
+  },
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-data": "^1.2.0",
+    "gulp-jade": "^1.0.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-uglify": "^1.5.3",
+    "jquery": "^2.2.3",
+    "jshint": "^2.9.1",
+    "lodash": "^4.11.1",
+    "webpack": "^1.13.0",
+    "webpack-stream": "^3.2.0"
+  },
+  "dependencies": {}
+}
