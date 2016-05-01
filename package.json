@@ -1,5 +1,5 @@
 {
-  "name": "hussain-starter",
+  "name": "gulp-webpack-sass-browsersync-starter",
   "version": "0.0.1",
   "description": "Hussain starter kit (gulp, sass, webpack, react, lodash)",
   "main": "gulpfile.js",
